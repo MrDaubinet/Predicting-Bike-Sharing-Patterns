@@ -19,11 +19,11 @@ The goal of this project was to create a prediction model that took in the above
 ![](assets/neural_network.png)
 
 ### Methadology
-First, I read the dataset into memory. Then I extract the relevent fields and scale the inputs against a mean and standard deviation found in the dataset. 
+1. First, I read the dataset into memory. Then I extract the relevent fields and scale the inputs against a mean and standard deviation found in the dataset. 
 
-Next, I implement the solution for creating a Neural Network in python. All code for the implementation can be found <a href="https://github.com/MrDaubinet/Predicting-Bike-Sharing-Patterns/blob/master/my_answers.py">here</a>. 
+2. Next, I implement the solution for creating a Neural Network in python. All code for the implementation can be found <a href="https://github.com/MrDaubinet/Predicting-Bike-Sharing-Patterns/blob/master/my_answers.py">here</a>. 
 
-Lastly, the Neural Network is initialized and trained. Its performance for training and validation loss can be seen in the image below. 
+3. Lastly, the Neural Network is initialized and trained. Its performance for training and validation loss can be seen in the image below. 
 
 ![](assets/loss.png)
 
