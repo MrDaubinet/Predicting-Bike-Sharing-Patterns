@@ -34,6 +34,8 @@ Finally, the Neural Network is run against unseen testing data with its accuracy
 
 ### Conclusion
 This project introduced me to the concepts of what a neural network is (all maths included) and what a neural network can do. It gave a practical real world example and a solution that utilizes deep learning. I thoroughly enjoyed it as my introduction into the deep learning nano degree.
+<br><br>
+To view the full project [click here](https://nbviewer.jupyter.org/github/MrDaubinet/Predicting-Bike-Sharing-Patterns/blob/master/Predicting_bike_sharing_data.ipynb)
 
 # Get started
 ```
